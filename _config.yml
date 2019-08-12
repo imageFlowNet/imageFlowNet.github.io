@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Andreas Hauptmann / Academic webpage"
+title                    : "ImageFlowNet / Project Page"
 title_separator          : "-"
-name                     : &name "Andreas Hauptmann"
-description              : &description "blaaaaaaaaaaaaa blaaaaaaaaaaaaa"
+name                     : &name "ImageFlowNet"
+description              : &description "ImageFlowNet"
 url                      : https://imageFlowNet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imageFlowNet/imageFlowNet.github.io"

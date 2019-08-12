@@ -2,13 +2,13 @@
 permalink: /
 title: "Page under construction"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Publications are now updated.
+Page under construction
 
 {% for post in site.posts reversed %}
   {% include archive-single.html %}
