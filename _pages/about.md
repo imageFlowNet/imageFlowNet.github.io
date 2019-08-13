@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Here we will collect project updates on ImageFlowNet and physics-based networks for medical imaging.
+Here we will collect project updates on physics-based networks for medical imaging and related work.
 
-Page is still under construction, please check in later.
+Page is still under construction, please come back later.
 
 
 {% for post in site.posts reversed %}
