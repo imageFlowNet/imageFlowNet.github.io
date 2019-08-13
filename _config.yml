@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Personal data"
-  avatar           : "AndreasHauptmann_MFO.jpg"
-  bio              : "Computational Mathematician interested in combining Inverse Problems and data driven methods"
-  location         : 
+  name             : "Project data"
+  avatar           : "DiffNetCentral.png"
+  bio              : "Developing physics-based networks for medical imaging"
+  location         : "University College London, UK"
   employer         : "University of Oulu, Finland"
   pubmed           : 
-  googlescholar    : "https://scholar.google.fi/citations?user=y8nRmTYAAAAJ&hl=en"
-  email            : "andreas.hauptmann(at)oulu.fi"
-  researchgate     : "https://www.researchgate.net/profile/Andreas_Hauptmann2"
+  googlescholar    : 
+  email            : 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "asHauptmann"
+  github           : "imageFlowNet"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-3756-8121"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "asHauptmann"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
