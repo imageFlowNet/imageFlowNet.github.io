@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Project data"
+  name             : "ImageFlowNet"
   avatar           : "DiffNetCentral.png"
   bio              : "Developing physics-based networks for medical imaging"
   location         : "University College London, UK"
