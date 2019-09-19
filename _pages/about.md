@@ -10,8 +10,7 @@ redirect_from:
 
 Here we will collect project updates on physics-based networks for medical imaging and related work.
 
-Page is still under construction, please come back later.
-
+Codes accompanying our first publication can now be found on <u><a href="{{"https://github.com/imageFlowNet/DiffNet"}}">github</a>.</u>
 
 {% for post in site.posts reversed %}
   {% include archive-single.html %}
